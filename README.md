@@ -14,7 +14,7 @@ Sebuah tampilan Aplikasi Penyedia film yang di dalamnya terdapat beberapa inform
 - Pemilihan tanggal dan Bookingan Kursi
 
 ## Screenshot
-![Tontonin](screenshots/Hasil Tampilan 1 ( main ).jpeg)
+![Tontonin](Screenshots/Hasil%20Tampilan%201%20(%20main).jpeg)
 
 ## Teknologi
 - Flutter
